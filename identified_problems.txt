@@ -6,3 +6,6 @@ ans) provide different options to user and let them select the correct study pla
 
 
 2) make the model answer the question even if the context dosent provide correct answer
+
+
+3) how to level up user from beginer to expert
