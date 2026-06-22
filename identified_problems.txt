@@ -1,0 +1,8 @@
+problem to fix
+
+1) need to iteratively asses the candidate frequently to prevent stagnation in learning and adaptive learning
+
+ans) provide different options to user and let them select the correct study plan for them
+
+
+2) make the model answer the question even if the context dosent provide correct answer

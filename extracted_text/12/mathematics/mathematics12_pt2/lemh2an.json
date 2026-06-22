@@ -1,0 +1,90 @@
+{
+  "source_pdf": "dataset/12/mathematics/mathematics12_pt2/lemh2an.pdf",
+  "grade": "12",
+  "subject": "Mathematics",
+  "doc_type": "answers",
+  "chapter": null,
+  "book": "lemh2an.pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text": "ANSWERS\n439\nEXERCISE 7.1\n1.\n1 cos2\n2\nx\n−\n2.\n1sin3\n3\nx\n3.\n2\n1\n2\nx\ne\n4.\n3\n1 (\n)\n3\nax b\na\n+\n5.\n3\n1\n4\ncos2\n2\n3\nx\nx\ne\n−\n−\n6.\n3\n4\nC\n3\nx\ne\nx\n+ +\n7.\n3\nC\n3\nx\nx\n−+\n8.\n3\n2\nC\n3\n2\nax\nbx\ncx\n+\n+\n+\n9.\n3\n2\nC\n3\nx\nx\ne\n+\n+\n10.\n2\nlog\n2\nC\n2\nx\nx\nx\n+\n−\n+\n11.\n2\n4\n5\nC\n2\nx\nx\nx\n+\n+\n+\n12.\n7\n3\n2\n2\n2\n2\n8\nC\n7 x\nx\nx\n+\n+\n+\n13.\n3\nC\n3\nx\nx\n+ +\n14.\n3\n5\n2\n2\n2\n2\nC\n3\n5\nx\nx\n−\n+\n15.\n7\n5\n3\n2\n2\n2\n6\n4\n2\nC\n7\n5\nx\nx\nx\n+\n+\n+\n16.\n2\n3sin +\nC\nx\nx\nx\ne\n−\n+\n17.\n3\n3\n2\n2\n10\n3cos\nC\n3\n3\nx\nx\nx\n+\n+\n+\n18.\ntan x + sec x + C\n19.\ntan x – x + C\n20.\n2 tan x – 3 sec x + C\n21.\nC\n22.\nA\nEXERCISE 7.2\n1.\nlog (1 + x2) + C\n2.\n3\n1(log|\n|)\nC\n3\nx\n+\n3.\nlog 1+log\nC\nx +\n4.\ncos (cos x) + C\n5.\n1 cos2(\n) C\n4\nax\nb\na\n−\n+\n+\n6.\n3\n2\n2 (\n)\nC\n3\nax\nb\na\n+\n+\n7.\n5\n3\n2\n2\n2\n4\n(\n2)\n(\n2)\nC\n5\n3\nx\nx\n+\n−\n+\n+\nANSWERS"
+    },
+    {
+      "page": 2,
+      "text": "MATHEMATICS\n440\n8.\n3\n2\n2\n1 (1 2\n)\nC\n6\nx\n+\n+\n9.\n3\n2\n2\n4 (\n1)\nC\n3 x\nx\n+ +\n+\n10.\n2log\n1\nC\nx −\n+\n 11.\n2\n4(\n8)\nC\n3\nx\nx\n+\n−\n+\n12.\n7\n4\n3\n3\n3\n3\n1\n1\n(\n1)\n(\n1)\nC\n7\n4\nx\nx\n−\n+\n−\n+\n13.\n3 2\n1\nC\n18(2 3\n)\nx\n−\n+\n+\n14.\n1\n(log )\nC\n1\nm\nx\nm\n−\n+\n−\n15.\n2\n1 log |9 4x | C\n8\n−\n−\n+\n16.\n2\n3\n1\nC\n2\nx\ne\n+ +\n17.\n2\n1\nC\n2\nx\ne\n−\n+\n18.\n1\ntan\nC\nx\ne\n−\n+\n19.\nlog(\n)+C\nx\nx\ne\ne−\n+\n20.\n2\n2\n1 log(\n) C\n2\nx\nx\ne\ne−\n+\n+\n21.\n1 tan(2\n3)\nC\n2\nx\nx\n−\n−+\n22.\n1 tan(7 4 )\nC\n4\nx\n−\n−\n+\n23.\n1\n2\n1 (sin\n)\nC\n2\nx\n−\n+\n24.\n1 log 2sin\n3cos\nC\n2\nx\nx\n+\n+\n25.\n1\nC\n(1\ntan )x +\n−\n26.\n2sin\nC\nx +\n27.\n3\n2\n1 (sin 2 )\nC\n3\nx\n+\n28.\n2 1+sin\nC\nx +\n29.\n2\n1 (logsin )\nC\n2\nx\n+\n30.\n– log 1+cos\nC\nx +\n31.\n1\nC\n1+cos x +\n32.\n1 log cos\nsin\nC\n2\n2\nx\nx\nx\n−\n+\n+\n33.\n1 log cos\nsin\nC\n2\n2\nx\nx\nx\n−\n−\n+\n34.\n2 tan\nC\nx +\n35.\n3\n1(1 log )\nC\n3\nx\n+\n+\n36.\n3\n1(\nlog )\nC\n3 x\nx\n+\n+\n37.\n1\n4\n1 cos(tan\n)\nC\n4\nx\n−\n−\n+\n38.\nD\n39.\nB"
+    },
+    {
+      "page": 3,
+      "text": "ANSWERS\n441\nEXERCISE 7.3\n1.\n1sin(4\n10) C\n2\n8\nx\nx\n−\n+\n+\n2.\n1\n1\ncos7\ncos\nC\n14\n2\nx\nx\n−\n+\n+\n3.\n1\n4\nC\n1\n12\n12\n1\n8\n8\n1\n4\n4\nsin\nsin\nsin\nx\nx\nx\nx\n+ +\n+\n\n\n\n+\n4.\n3\n1\n1\ncos(2\n1)\ncos (2\n1) C\n2\n6\nx\nx\n−\n+\n+\n+\n+\n5.\n6\n4\n1\n1\ncos\ncos\nC\n6\n4\nx\nx\n−\n+\n6.\n1\n4\n1\n6\n6\n1\n4\n4\n1\n2\n2\ncos\ncos\ncos\nx\nx\nx\n−\n−\n\n\n\n+C\n7.\n1\n2\n1\n4\n4\n1\n12\n12\nsin\nsin\nx\nx\n−\n\n\n\n+ C\n8.\n2tan\nC\n2\nx\nx\n−+\n9.\ntan\nC\n2\nx\nx−\n+\n10.\n3\n1\n1\nsin2\nsin4\nC\n8\n4\n32\nx\nx\nx\n−\n+\n+\n11.\n3\n1\n1\nsin4\nsin8\nC\n8\n8\n64\nx\nx\nx\n+\n+\n+\n12.\nx – sin x + C\n13.\n2 (sinx + x cosα) + C\n14.\n1\nC\ncos +sin\nx\nx\n−\n+\n15.\n3\n1\n1\nsec 2\nsec2\nC\n6\n2\nx\nx\n−\n+\n16.\n3\n1 tan\ntan\nC\n3\nx\nx\nx\n−\n+ +\n17.\nsec x – cosec x + C\n18.\ntan x + C\n19.\n2\n1\nlog tan\ntan\nC\n2\nx\nx\n+\n+\n20.\nlog cos\nsin\nC\nx\nx\n+\n+\n21.\n2\nC\n2\n2\nx\nx\nπ\n−\n+\n22.\n1\ncos(\n)\nlog\nC\nsin(\n)\ncos(\n)\nx\na\na\nb\nx\nb\n−\n+\n−\n−\n23.\nA\n24.\nB\nEXERCISE 7.4\n1.\n1\n3\ntan\n+ C\nx\n−\n2.\n2\n1 log 2\n1\n4\nC\n2\nx\nx\n+\n+\n+"
+    },
+    {
+      "page": 4,
+      "text": "MATHEMATICS\n442\n3.\n2\n1\nlog\nC\n2\n4\n5\nx\nx\nx\n+\n−\n+\n−\n+\n4.\n–1\n1\n5\nsin\nC\n5\n3\nx +\n5.\n1\n2\n3\ntan\n2\nC\n2 2\nx\n−\n+\n6.\n3\n3\n1\n1\nlog\nC\n6\n1\nx\nx\n+\n+\n−\n7.\n2\n2\n1\nlog\n1\nC\nx\nx\nx\n−−\n+\n−\n+\n8.\n3\n6\n6\n1log\nC\n3\nx\nx\na\n+\n+\n+\n9.\n2\nlog tan +\ntan\n+4\nC\nx\nx\n+\n10.\n2\nlog\n1\n2\n2\nC\nx\nx\nx\n+ +\n+\n+\n+\n11.\n12.\n13.\n2\n3\nlog\n–\n3\n2\nC\n2\nx\nx\nx\n+\n−\n+\n+\n14.\n15.\n+\nlog\n–\n(\n)(\n)\nC\n2\na\nb\nx\nx\na\nx b\n+\n−\n−\n+\n16.\n2\n2 2\n+\n3\nC\nx\nx−+\n17.\n2\n2\n1\n2log\n1\nC\nx\nx\nx\n−+\n+\n−+\n18.\n19.\n2\n2\n9\n6\n–9 +20\n34log\n9\n20\nC\n2\nx\nx\nx\nx\nx\n+\n−\n+\n−\n+\n+\n20.\n21.\n2\n2\n2 +3\nlog\n1\n2\n3\nC\nx\nx\nx\nx\nx\n+\n+\n+ +\n+\n+\n+\n22.\n2\n1\n2\n1\n6\nlog\n2\n5\nlog\nC\n2\n6\n1\n6\nx\nx\nx\nx\n−−\n−\n−\n+\n+\n−+"
+    },
+    {
+      "page": 5,
+      "text": "ANSWERS\n443\n23.\n2\n2\n5\n4 +10\n7log\n2\n4\n10\nC\nx\nx\nx\nx\nx\n+\n−\n+\n+\n+\n+\n+\n24.\nB\n25.\nB\nEXERCISE 7.5\n1.\n2\n(\n2)\nlog\nC\n1\nx\nx\n+\n+\n+\n2.\n1\n3\nlog\nC\n6\n3\nx\nx\n−\n+\n+\n3.\nlog\n1\n5log\n2\n4log\n3\nC\nx\nx\nx\n−\n−\n−\n+\n−\n+\n4.\n1\n3\nlog\n1\n2log\n2\nlog\n3\nC\n2\n2\nx\nx\nx\n−\n−\n−\n+\n−\n+\n5.\n4log\n+2\n2log\n1\nC\nx\nx\n−\n+\n+\n6.\n3\nlog\nlog 1\n2\nC\n2\n4\nx\nx\nx\n+\n−\n−\n+\n7.\n2\n1\n1\n1\n1\nlog\n1\nlog(\n1)\ntan\nC\n2\n4\n2\nx\nx\nx\n−\n−−\n+\n+\n+\n8.\n2\n1\n1\nlog\nC\n9\n2\n3(\n1)\nx\nx\nx\n−\n−\n+\n+\n−\n9.\n1\n1\n4\nlog\nC\n2\n1\n1\nx\nx\nx\n+\n−\n+\n−\n−\n10.\n5\n1\n12\nlog\n1\nlog\n1\nlog 2\n3\nC\n2\n10\n5\nx\nx\nx\n+\n−\n−−\n+\n+\n11.\n5\n5\n5\nlog\n1\nlog\n2\nlog\n2\nC\n3\n2\n6\nx\nx\nx\n+\n−\n+\n+\n−\n+\n12.\n2\n1\n3\nlog\n1\nlog\n1\nC\n2\n2\n2\nx\nx\nx\n+\n+\n+\n−\n+\n13.\n– log \n1\nx −\n+ 1\n2 log (1 + x2) + tan–1x + C\n14.\n7\n3log\n2\nC\n2\n+\n+\n+\n+\nx\nx\n15.\n1\n1\n1\n1\nlog\ntan\nC\n4 \n1\n2\nx\nx\nx\n−\n−\n−\n+\n+\n16.\n1 log\nC\n1\nn\nn\nx\nn\nx\n+\n+\n17.\n2–sin\nlog\nC\n1–sin\nx\nx +\n18.\n1\n1\n2\n+\ntan\n3tan\nC\n2\n3\n3\nx\nx\nx\n−\n−\n−\n+\n19."
+    },
+    {
+      "page": 6,
+      "text": "MATHEMATICS\n444\n20.\n4\n4\n1\n1\nlog\nC\n4\nx\nx\n−\n+\n21.\n– 1\nlog\nC\nx\nx\ne\ne\n\n+\n\n\n\n\n22.\nB\n23. A\nEXERCISE 7.6\n1.\n– x cos x + sin x + C\n2.\n1\ncos3\nsin3\nC\n3\n9\nx\nx\nx\n−\n+\n+\n3.\nex (x2 – 2x + 2) + C\n4.\n2\n2\nlog\nC\n2\n4\nx\nx\nx −\n+\n5.\n2\n2\nlog2\nC\n2\n4\nx\nx\nx −\n+\n6.\n3\n3\nlog\nC\n3\n9\nx\nx\nx −\n+\n7.\n2\n2\n1\n1\n1\n(2\n1) sin\nC\n4\n4\nx\nx\nx\nx\n−\n−\n−\n+\n+\n8.\n2\n1\n1\n1\ntan\ntan\nC\n2\n2\n2\nx\nx\nx\nx\n−\n−\n−\n+\n+\n9.\n–1\n2\n2\ncos\n(2\n1)\n1\nC\n4\n4\nx\nx\nx\nx\n−\n−\n−\n+\n10. (\n)\n2\n–1\n2\n1\nsin\n2 1\nsin\n2\nC\nx\nx\nx\nx\nx\n−\n+\n−\n−\n+\n11.\n2\n–1\n–\n1–\ncos\nC\nx\nx\nx\n \n \n+\n+\n \n \n \n \n12. x tan x + log cos x + C\n13.\n1\n2\n1\ntan\nlog(1\n)\nC\n2\nx\nx\nx\n−\n−\n+\n+\n14.\n2\n2\n2\n2\n(log )\nlog\nC\n2\n2\n4\nx\nx\nx\nx\nx\n−\n+\n+\n15.\n16. ex sin x + C\n17.\nC\n1+\nxe\nx +\n18.\ntan\nC\n2\nx\nx\ne\n+\n19.\nC\nxe\nx +\n20.\n2\nC\n(\n1)\nxe\nx\n+\n−\n21.\n2\n(2sin\ncos )\nC\n5\nx\ne\nx\nx\n−\n+\n22. 2x tan–1x – log (1 + x2) + C\n23.\nA\n24. B"
+    },
+    {
+      "page": 7,
+      "text": "ANSWERS\n445\nEXERCISE 7.7\n1.\n2\n1\n1\n4\n2sin\nC\n2\n2\nx\nx\nx\n−\n−\n+\n+\n2.\n1\n2\n1\n1\nsin\n2\n1\n4\nC\n4\n2\nx\nx\nx\n−\n+\n−\n+\n3.\n2\n2\n( +2)\n4\n6\nlog\n2\n4\n6\nC\n2\nx\nx\nx\nx\nx\nx\n+\n+ +\n+ +\n+\n+\n+\n4.\n2\n2\n( +2)\n3\n4\n1\nlog\n2\n4\n1\nC\n2\n2\nx\nx\nx\nx\nx\nx\n+\n+ −\n+ +\n+\n+\n+\n5.\n6.\n2\n2\n( +2)\n9\n4\n5\nlog\n2\n4\n5\nC\n2\n2\nx\nx\nx\nx\nx\nx\n+\n−\n−\n+\n+\n+\n−\n+\n7.\n8.\n2\n2\n2 +3\n9\n3\n3\nlog\n3\nC\n4\n8\n2\nx\nx\nx\nx\nx\nx\n+\n−\n+\n+\n+\n+\n9.\n2\n2\n3\n9\nlog\n9\nC\n6\n2\nx\nx\nx\nx\n+ +\n+\n+\n+\n10.\nA\n11.\nD\nEXERCISE 7.8\n1.\n2\n2.\n3\nlog 2\n3.\n64\n3\n4.\n1\n2\n5.\n0\n6.\ne4 (e – 1)\n7.\n1\n2 log 2\n8.\n9.\nπ\n2\n10.\nπ\n4\n11.\n1\n3\nlog\n2\n2\n12.\nπ\n4"
+    },
+    {
+      "page": 8,
+      "text": "MATHEMATICS\n446\n13.\n1\n2 log 2\n14.\n1\n1\n3\nlog6\ntan\n5\n5\n5\n−\n+\n15.\n1\n2 (e – 1)\n16.\n17.\n4\n2\n1024\n2\nπ\nπ\n+\n+\n18.\n0\n19.\n3\n3log2\n8\nπ\n+\n20.\n1 + 4\n2 2\nπ\nπ\n−\n21.\nD\n22.\nC\nEXERCISE 7.9\n1.\n1 log2\n2\n2.\n64\n231\n3.\nπ\n2 – log 2\n4.\n16 2 ( 2\n1)\n15\n+\n5.\nπ\n4\n6.\n1\n21 5 17\nlog\n4\n17\n+\n7.\nπ\n8\n8.\n2\n2\n(\n2)\n4\ne\ne −\n9.\nD\n10.\nB\nEXERCISE 7.10\n1.\nπ\n4\n2.\nπ\n4\n3.\nπ\n4\n4.\nπ\n4\n5.\n29\n6.\n9\n7.\n1\n(\n1)(\n2)\nn\nn\n+\n+\n8.\nπ log2\n8\n9.\n16 2\n15\n10.\nπ\n1\nlog\n2\n2\n11.\nπ\n2\n12.\nπ\n13.\n0\n14.\n0\n15.\n0\n16.\n– π log 2\n17.\n2\na\n18.\n5\n20.\nC\n21.\nC"
+    },
+    {
+      "page": 9,
+      "text": "ANSWERS\n447\nMISCELLANEOUS EXERCISE ON CHAPTER 7\n1.\n2\n2\n1 log\nC\n2\n1\nx\nx\n+\n−\n2.\n3.\n(\n)\n2\n–\nC\na\nx\na\nx\n−\n+\n4.\n5.\n1\n1\n1\n3\n6\n6\n2\n3\n6\n6log(1\n) C\nx\nx\nx\nx\n−\n+\n−\n+\n+\n6.\n2\n1\n1\n1\n3\nlog\n1\nlog (\n9)\ntan\nC\n2\n4\n2\n3\nx\nx\nx\n−\n−\n+ +\n+\n+\n+\n7.\nsin log sin (\n)\ncos\nC\na\nx\na\nx\na\n−\n+\n+\n8.\n3\nC\n3\nx +\n9.\n10.\n1 sin2\nC\n2\nx\n−\n+\n11.\ncos (\n)\n1\nlog\nC\nsin ( –  )\ncos(\n)\nx\nb\na\nb\nx\na\n+\n+\n+\n12.\n1\n4\n1 sin\n(\n) C\n4\nx\n−\n+\n13.\n14.\n1\n1\n1\n1\ntan\ntan\nC\n3\n6\n2\nx\nx\n−\n−\n−\n+\n15.\n4\n1 cos\nC\n4\nx\n−\n+\n16.\n4\n1 log(\n1)\nC\n4\nx +\n+\n17.\n+1\n[ (\n+ )]\nC\n( +1)\nn\nf ax\nb\na n\n+\n18.\nsin (\n)\n–2\nC\nsin\nsin\nx\nx\nα\nα\n+\n+\n19.\n1\n2\n–2 1– \ncos\nC\nx\nx\nx\nx\n−\n+\n+\n−\n+\n20.\nex tan x + C\n21.\n1\n2log\n+1\n3log\n2\nC\n1\nx\nx\nx\n−\n−\n+\n+\n+\n+\n22.\n23."
+    },
+    {
+      "page": 10,
+      "text": "MATHEMATICS\n448\n24.\n2\ne\nπ\n25.\n8\nπ\n26.\n6\nπ\n27.\n1 ( 3\n1)\n2sin\n2\n−\n−\n28.\n4\n2\n3\n29.\n1 log9\n40\n30.\nπ 1\n2 −\n31.\n19\n2\n38.\nA\n39.\nB\n40.\nD\nEXERCISE 8.1\n1.\n12π\n2.\n6π\n3.\nA\n4. B\nMiscellaneous Exercise on Chapter 8\n1. (i)\n7\n3\n(ii)\n624.8\n2.\n9\n3.\n4\n4.\nD\n5.\nC\nEXERCISE 9.1\n1.\nOrder 4; Degree not defined\n2.\nOrder 1; Degree 1\n3.\nOrder 2; Degree 1\n4.\nOrder 2; Degree not defined\n5.\nOrder 2; Degree 1\n6.\nOrder 3; Degree 2\n7.\nOrder 3; Degree 1\n8.\nOrder 1; Degree 1\n9.\nOrder 2; Degree 1\n10.\nOrder 2; Degree 1\n11.\nD\n12.\nA\nEXERCISE 9.2\n11.\nD\n12.\nD"
+    },
+    {
+      "page": 11,
+      "text": "ANSWERS\n449\nEXERCISE 9.3\n1.\n2tan\nC\n2\nx\ny\nx\n=\n−\n+\n2.\ny = 2 sin (x + C)\n3.\ny = 1 + Ae–x\n4.\ntan\ntan\nC\nx\ny =\n5.\ny = log (ex + e–x) + C\n6.\n3\n–1\ntan\n=\n+\nC\n3\nx\ny\nx\n+\n7.\ny = ecx\n8.\nx – 4 + y –4 = C\n9.\ny = x sin–1x + \n2\n1– x + C\n10.\ntan y = C ( 1 – ex)\n11.\n12.\n2\n2\n1\n1\n1\n3\nlog\nlog\n2\n2\n4\n\n\n−\n=\n−\n\n\n\n\nx\ny\nx\n13.\n14.\ny = sec x\n15.\n2y – 1 = ex ( sin x – cos x)\n16.\ny – x + 2 = log (x2 (y + 2)2)\n17.\ny2 – x2 = 4\n18.\n(x + 4)2 = y + 3\n19.\n1\n3\n(63\n27)\nt +\n20.\n6.93%\n21.\nRs 1648\n22.\n23.\nA\nEXERCISE 9.4\n1.\n2\n(\n)\nC\ny\nx\nx\ny\nx e\n−\n−\n=\n2.\nlog\nC\ny\nx\nx\nx\n=\n+\n3.\n–1\n2\n2\n1\ntan\nlog(\n) C\n2\ny\nx\ny\nx\n\n=\n+\n+\n\n\n\n\n4.\nx2 + y2 = Cx\n5.\n1\n2\nlog\nlog\nC\n2 2\n2\nx\ny\nx\nx\ny\n+\n=\n+\n−\n6.\n2\n2\n2\n+\n+\nC\ny\nx\ny\nx\n=\n7.\nxy cos y\nx  = C\n8.\n1 cos\nCsin\ny\ny\nx\nx\nx\n\n\n\n\n\n\n−\n=\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "page": 12,
+      "text": "MATHEMATICS\n450\n9.\ncy = log y\nx –1\n10.\nC\nx\ny\nye\nx\n+\n=\n11.\nlog ( x2 + y2) + 2 tan–1 y\nx  = π\nlog2\n2 +\n12.\ny + 2x = 3x2 y\n13.\ncot\nlog\ny\nex\nx\n\n=\n\n\n\n\n14.\ncos\nlog\ny\nex\nx\n\n=\n\n\n\n\n15.\n2\n(\n0,\n)\n1 log\nx\ny\nx\nx\ne\nx\n=\n≠\n≠\n−\n16.\nC\n17.\nD\nEXERCISE 9.5\n1.\ny = 1\n5 (2sin x – cos x) + C e–2x\n2.\ny = e–2x + Ce–3x\n3.\n4\nC\n4\nx\nxy =\n+\n4.\ny(sec x + tan x) = sec x + tan x – x + C\n5.\ny = (tan x – 1) + Ce–tanx\n6.\n2\n2\n(4log\n1)\nC\n16\n−\n=\n−\n+\nx\ny\nx\nx\n7.\n2\nlog\n(1\nlog\n)\nC\n−\n=\n+\n+\ny\nx\nx\nx\n8.\n1\n2\n1\n=(1+ )\n log sin\nC(1\n)\ny\nx\nx\nx\n−\n−\n+\n+\n9.\n1\nC\ncot\nsin\ny\nx\nx\nx\nx\n=\n−\n+\n10.\n(x + y + 1) = C ey\n11.\n2\nC\n3\n=\n+\ny\nx\ny\n12.\nx = 3y2 + Cy\n13.\ny = cos x – 2 cos2 x\n14.\ny (1 + x2) = tan–1 x – 4\nπ\n15.\ny = 4 sin3 x – 2 sin2 x\n16.\nx + y + 1 = ex\n17.\ny = 4 – x – 2 ex\n18.\nC\n       19.  D\nMiscellaneous Exercise on Chapter 9\n1. (i)\nOrder 2; Degree 1\n(ii)\nOrder 1; Degree 3\n(iii)\nOrder 4; Degree not defined"
+    },
+    {
+      "page": 13,
+      "text": "ANSWERS\n451\n4.\nsin–1y + sin–1x = C\n6.\ncos y = sec\n2\nx\n7.\ntan–1 y + tan–1(ex) = π\n2\n8.\nC\nx\ny\ne\ny\n=\n+\n9.\nlog \n–\n1\nx\ny\nx\ny\n= +\n+\n10.\n2\n(2\nC)\nx\nye\nx\n=\n+\n11.\n2\n2\nπ\nsin\n2\n(sin\n0)\n2\ny\nx\nx\nx\n=\n−\n≠\n12.\n2\n1\nlog\n,\n1\n1\nx\ny\nx\nx\n+\n=\n≠−\n+\n13.\nC\n14.\nC\n15.\nC\nEXERCISE 10.1\n1.\nIn the adjoining figure, the vector \n represents the required displacement.\n2. (i)\nscalar\n(ii)\nvector\n(iii)\nscalar\n(iv)\nscalar\n(v)\nscalar\n(vi)\nvector\n3. (i)\nscalar\n(ii)\nscalar\n(iii)\nvector (iv)\nvector\n(v)\nscalar\n4. (i)\nVectors  and  are coinitial\n(ii)\nVectors  and  are equal\n(iii)\nVectors  and  are collinear but not equal\n5. (i)\nTrue\n(ii)\nFalse\n(iii)\nFalse\n(iv)\nFalse\nEXERCISE 10.2\n1.\n2.\nAn infinite number of possible answers."
+    },
+    {
+      "page": 14,
+      "text": "MATHEMATICS\n452\n3.\nAn infinite number of possible answers.\n4.\nx = 2, y = 3\n5.\n–7 and 6; \nˆ\nˆ\n–7 and 6\ni\nj\n6.\nˆ\nˆ\n4 j\nk\n−\n−\n7.\n1\n1\n2 ˆ\nˆ\nˆ\n6\n6\n6\ni\nj\nk\n+\n+\n8.\n1\n1\n1 ˆ\nˆ\nˆ\n3\n3\n3\ni\nj\nk\n+\n+\n9.\n1\n1 ˆ\nˆ\n2\n2\ni\nk\n+\n10.\n40\n8\n16 ˆ\nˆ\nˆ\n30\n30\n30\ni\nj\nk\n−\n+\n12.\n1\n2\n3\n,\n,\n14\n14\n14\n13.\n1\n2 2\n,\n,\n3\n3 3\n−\n−\n15.\n(i)  \n1\n4\n1 ˆ\nˆ\nˆ\n3\n3\n3\ni\nj\nk\n−\n+\n+\n   (ii)  \nˆ\nˆ\n3\n3\ni\nk\n−\n+\n16.\nˆ\nˆ\nˆ\n3\n2\ni\nj\nk\n+\n+\n18.\n(C)\n19.  (B), (C), (D)\nEXERCISE 10.3\n1.\nπ\n4\n2.\n3.\n0\n4.\n60\n114\n6.\n16 2 2 2\n,\n3 7\n3 7\n7.\n8.\n9.\n13\n10.\n8\n12.\nVector  can be any vector\n13.\n3\n2\n−\n14.\nTake any two non-zero perpendicular vectors  and \n15.\n18.\n(D)\nEXERCISE 10.4\n1.\n19 2\n2.\n2\n2\n1 ˆ\nˆ\nˆ\n3\n3\n3\ni\nj\nk\n±\n \n \n3.\nπ\n1\n1\n1\n;\n,\n,\n3\n2\n2\n2\n5.\n27\n3, 2\n6.\nEither"
+    },
+    {
+      "page": 15,
+      "text": "ANSWERS\n453\n8.\nNo; take any two nonzero collinear vectors\n9.\n61\n2\n10.\n15 2\n11.\n(B)\n       12.  (C)\nMiscellaneous Exercise on Chapter 10\n1.\n3\n1\nˆ\nˆ\n2\n2\ni\nj\n+\n2.\n2\n2\n2\n2\n1\n2\n1\n2\n1\n2\n1\n2\n1\n2\n1\n–\n,\n–\n,\n; (\n)\n(\n)\n(\n)\nx\nx\ny\ny z\nz\nx\nx\ny\ny\nz\nz\n−\n−\n+\n−\n+\n−\n3.\n5\n3 3\nˆ\nˆ\n2\n2\ni\nj\n−\n+\n4.\nNo; take ,  and rc to represent the sides of a triangle.\n5.\n1\n3\n±\n6.\n3\n10\nˆ\nˆ\n10\n2\n2\ni\nj\n+\n7.\n3\n3\n2\nˆ\nˆ\nˆ\n22\n22\n22\ni\nj\nk\n−\n+\n8.\n2 : 3\n9.\n3  + 5\n10.\n1\nˆ\nˆ\nˆ\n(3 – 6\n2 ); 11 5\n7\ni\nj\nk\n+\n12.\n1\nˆ\nˆ\nˆ\n(160 – 5\n70 )\n3\ni\nj\nk\n+\n13. λ = 1\n16.\n(B)\n17.\n(D)\n18.\n(C)\n19.\n(B)\nEXERCISE 11.1\n1.\n1\n1\n0,\n,\n2\n2\n−\n2.\n1\n1\n1\n,\n,\n3\n3\n3\n±\n±\n±\n3.\n5.\n2\n2\n3\n2\n3\n2\n4\n5\n1\n,\n,\n;\n,\n,\n;\n,\n,\n17\n17\n17\n17\n17\n17\n42\n42\n42\n−\n−\n−\n−\n−\n−\nEXERCISE 11.2\n4.\n, where λ is a real number\n5.\nand cartesian form is\n1\n4\n2\n1\n1\n2\n−\n−\n=\n+\n=\n−\nz\ny\nx"
+    },
+    {
+      "page": 16,
+      "text": "MATHEMATICS\n454\n6.\n6\n5\n5\n4\n3\n2\n+\n=\n−\n=\n+\nz\ny\nx\n7.\nˆ\nˆ\nˆ\nˆ\nˆ\nˆ\n(5\n4\n6 )\n(3\n7\n2 )\n=\n−\n+\n+ λ\n+\n+\nrr\ni\nj\nk\ni\nj\nk\n8. (i)\nθ = \n1\n19\ncos\n21\n−\n\n\n\n\n\n(ii)\nθ = \n1\n8\ncos\n5\n3\n−\n\n\n\n\n\n\n\n9. (i)\nθ = \n1\n26\ncos\n9\n38\n−\n\n\n\n\n\n\n\n(ii)\nθ = \n1\n2\ncos\n3\n−\n\n\n\n\n\n10.\n70\n11\np =\n12.\n3 2\n2\n13.\n2 29\n14.\n3\n19\n15.\n29\n8\nMiscellaneous Exercise on Chapter 11\n1.\n90°\n2.\n1\n0\n0\nx\ny\nz\n=\n=\n3.\n10\n7\nk\n−\n=\n4.\n9\n5.\nEXERCISE 12.1\n1.\nMaximum Z = 16 at (0, 4)\n2.\nMinimum Z = – 12 at (4, 0)\n3.\nMaximum Z = 235\n19  at 20\n19\n45\n19\n,\n\n\n\n\n4.\nMinimum Z = 7 at \n3\n2\n1\n2\n,\n\n\n\n\n5.\nMaximum Z = 18 at (4, 3)\n6.\nMinimum Z = 6 at all the points on the line segment joining the points (6, 0)\nand (0, 3)."
+    },
+    {
+      "page": 17,
+      "text": "ANSWERS\n455\n7.\nMinimum Z = 300 at (60, 0);\nMaximum Z = 600 at all the points on the line segment joining the points (120, 0)\nand (60, 30).\n8.\nMinimum Z = 100 at all the points on the line segment joining the points (0, 50)\nand (20, 40);\nMaximum Z = 400 at (0, 200)\n9.\nZ has no maximum value\n10.\nNo feasible region, hence no maximum value of Z.\nEXERCISE 13.1\n1.\n(\n)\n(\n)\n2\n1\nP E|F\n, P F|E\n3\n3\n=\n=\n2.\n(\n)\n16\nP A|B\n25\n=\n3. (i)\n0.32\n(ii)\n0.64\n(iii)\n0.98\n4.\n11\n26\n5. (i)\n4\n11\n(ii)\n4\n5\n(iii)\n2\n3\n6. (i)\n1\n2\n(ii)\n3\n7\n(iii)\n6\n7\n7. (i)\n1\n(ii)\n0\n8.\n1\n6\n9.\n1\n10.\n(a) 1\n3,   (b) 1\n9\n11. (i)\n1\n2 , 1\n3\n(ii)\n1\n2 , 2\n3\n(iii)\n3\n4 , 1\n4\n12. (i)\n1\n2\n(ii)\n1\n3\n13.\n5\n9\n14.\n1\n15\n15.\n0\n16.\nC\n    17.   D"
+    },
+    {
+      "page": 18,
+      "text": "MATHEMATICS\n456\nEXERCISE 13.2\n1.\n3\n25\n2.\n25\n102\n3.\n44\n91\n4.\nA and B are independent\n5.\nA and B are not independent\n6.\nE and F are not independent\n7. (i)\n1\n10\np =\n(ii)\n1\n5\np =\n8. (i)\n0.12\n(ii)\n0.58\n(iii)\n0.3\n(iv)    0.4\n9.\n3\n8\n10.\nA and B are not independent\n11. (i)\n0.18\n(ii)\n0.12\n(iii)\n0.72\n(iv)\n0.28\n12.\n7\n8\n13.\n(i) 16\n81, (ii) 20\n81 , (iii) 40\n81\n14.\n(i) 2\n3 , (ii) 1\n2\n15.\n(i) , (ii)\n16.\n(a) 1\n5 , (b) 1\n3, (c) 1\n2\n17.\nD\n18.\nB\nEXERCISE 13.3\n1.\n1\n2\n2.\n2\n3\n3.\n9\n13\n4.\n12\n13\n5.\n22\n133\n6.\n4\n9\n7.\n1\n52\n8.\n1\n4\n9.\n2\n9\n10.\n8\n11\n11.\n5\n34\n12.\n11\n50\n13.\nA\n14.\nC\nMiscellaneous Exercise on Chapter 13\n1. (i)\n1\n(ii)\n0\n2. (i)\n1\n3\n(ii)\n1\n2\n3.\n20\n21"
+    },
+    {
+      "page": 19,
+      "text": "ANSWERS\n457\n4.\n5.\n2\n7\n6.\n1\n2\n8\n,\n,\n15 5 15\n7.\n14\n29\n8.\n3\n16\n9. (i)\n0.5\n(ii)\n0.05\n10.\n16\n31\n11.\nA\n12.\nC\n13.\nB\n—v—"
+    },
+    {
+      "page": 20,
+      "text": "Notes"
+    }
+  ]
+}

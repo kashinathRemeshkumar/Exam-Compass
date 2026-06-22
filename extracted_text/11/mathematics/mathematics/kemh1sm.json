@@ -1,0 +1,42 @@
+{
+  "source_pdf": "dataset/11/mathematics/mathematics/kemh1sm.pdf",
+  "grade": "11",
+  "subject": "Mathematics",
+  "doc_type": "chapter",
+  "chapter": null,
+  "book": "kemh1sm.pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text": "SUPPLEMENTARY MATERIAL       357\nSUPPLEMENTARY MATERIAL\nCHAPTER  8\n8.6 Infinite G.P. and its Sum\nG.P. of the form a, ar, ar2, ar3, ... is called infinite G.P. Now, to find the formulae for\nfinding sum to infinity of a G.P., we begin with an example.\nLet us consider the G.P.,\n2\n4\n1,\n,\n, ...\n3\n9\nHere\na = 1, \n2\n3\nr =\n. We have\n2\n1\n2\n3\nS\n3 1\n2\n3\n1\n3\nn\nn\nn\n\n\n−\n\n\n\n\n\n\n\n=\n=\n−\n\n\n\n\n\n\n\n\n\n\n−\nLet us study the behaviour of \n2\n3\nn\n\n\n\n\n\n as n becomes larger and larger:\n  n\n1\n5\n10\n20\n2\n3\nn\n\n\n\n\n\n\n0.6667\n0.1316872428\n0.01734152992\n0.00030072866\nWe observe that as n becomes larger and larger, \n2\n3\nn\n\n\n\n\n\nbecomes closer and closer to\nzero. Mathematically, we say that as n becomes sufficiently large, \n2\n3\nn\n\n\n\n\n\n becomes\nsufficiently small. In other words as \n2\n,\n0.\n3\nn\nn\n\n\n→∞\n→\n\n\n\n\n  Consequently, we find that the\nsum of infinitely many terms is given by S\n3.\n∞="
+    },
+    {
+      "page": 2,
+      "text": "358       MATHEMATICS\nNow, for a geometric progression, a, ar, ar2, ..., if  numerical value of common ratio r\nis less than 1, then\n(1\n)\nS\n(1\n)\n1\n1\nn\nn\nn\na\nr\na\nar\nr\nr\nr\n−\n=\n=\n−\n−\n−\n−\nIn this case as\n,\n→∞\nn\nrn → 0 since |r| < 1. Therefore\n1\nn\na\nS\nr\n→\n−\nSymbolically sum to infinity is denoted by S or S.\n∞\nThus, we have S\n1 –\na\nr\n=\n.\nFor examples,\n(i)\n2\n3\n1\n1\n1\n1\n1\n...\n2 .\n1\n2\n2\n2\n1\n2\n+\n+\n+\n+\n=\n=\n−\n(ii)\n2\n3\n1\n1\n1\n1\n1\n2\n1\n...\n1\n1\n2\n2\n2\n3\n1\n1\n2\n2\n−\n+\n−\n+\n=\n=\n=\n−\n\n\n+\n−\n\n\n\nExercise 8.3\nFind the sum to infinity in each of the following Geometric Progression.\n1.\n1\n1\n1,\n,\n,...\n3\n9\n(Ans. 1.5)\n2.  6, 1.2, .24, ...\n(Ans. 7.5)\n3. 5, 2 0\n8 0\n,\n, ...\n7\n4 9\n(Ans. 35\n3 )\n4.\n3\n3\n3\n,\n,\n,...\n4\n16 64\n−\n−\n(Ans. 3\n5\n−)\n5. Prove that \n1\n1\n1\n8\n2\n4\n3\n3\n3 ...\n3\n×\n×\n=\n6. Let x = 1 + a + a2 + ... and y = 1 + b + b2 + ..., where |a| < 1 and |b| < 1. Prove that\n1 + ab + a2b2 + ... = \n1\nxy\nx\ny\n+\n−"
+    },
+    {
+      "page": 3,
+      "text": "SUPPLEMENTARY MATERIAL       359\nCHAPTER  12\n12.6 Limits Involving Exponential and Logarithmic Functions\nBefore discussing evaluation of limits of the expressions involving exponential and\nlogarithmic functions, we introduce these two functions stating their domain, range and\nalso sketch their graphs roughly.\nLeonhard Euler (1707–1783), the great Swiss mathematician introduced the number\ne whose value lies between 2 and 3. This number is useful in defining exponential\nfunction and is defined as f (x) = ex, x ∈ R. Its domain is R, range is the set of positive\nreal numbers. The graph of exponential function, i.e., y =  ex is as given in Fig.13.11.\nFig. 13.11\nSimilarly, the logarithmic function expressed as loge R+ → R is given by loge x = y,\nif and only if ey = x. Its domain is R+ which is the set of all positive real numbers and\nrange is R. The graph of logarithmic function   y = loge x is shown in Fig.13.12."
+    },
+    {
+      "page": 4,
+      "text": "360       MATHEMATICS\nFig. 13.12\nIn order to prove the result \n0\n– 1\nlim\n1\nx\nx\ne\nx\n→\n= , we make use of an inequality involving\nthe expression \nx\ne x\n1\n−\n which runs as follows:\n1\n1\nx ≤\n+\n \n– 1\nx\ne\nx\n ≤ 1 + (e – 2) |x| holds for all x in [–1, 1] ~ {0}.\nTheorem 6 Prove that \n0\n1\nlim\n1\nx\nx\ne\nx\n→\n−\n=\nProof Using above inequality, we get\n1\n1\n≤\n+ x\n \n1\nx\ne\nx\n−\n ≤1 + | x| (e – 2), x Î [–1, 1] ~ {0}\nAlso\n0\n0\n1\n1\n1\nlim\n1\n1\n1\nlim\n1\n0\nx\nx\nx\nx\n→\n→\n=\n=\n=\n+\n+\n+"
+    },
+    {
+      "page": 5,
+      "text": "SUPPLEMENTARY MATERIAL       361\nand\n0\n0\nlim 1\n(\n2)\n1\n(\n2) lim\n1\n(\n2)0\n1\nx\nx\ne\nx\ne\nx\ne\n→\n→\n\n\n+\n−\n=\n+\n−\n=\n+\n−\n=\n\n\nTherefore, by Sandwich theorem, we get\n0\n1\nlim\n1\nx\nx\ne\nx\n→\n−\n=\nTheorem 7 Prove that \n0\nlog (1\n)\nlim\n1\ne\nx\nx\nx\n→\n+\n=\nProof Let\nlog (1\n)\ne\nx\ny\nx\n+\n=\n. Then\nlog (1\n)\ne\nx\nxy\n+\n=\n1\nxy\nx\ne\n⇒\n+\n=\n1\n1\nxy\ne\nx\n−\n⇒\n=\nor\n1.\n1\nxy\ne\ny\nxy\n−\n=\n0\n0\n1\nlim\nlim\n1 (since\n0 gives\n0)\nxy\nxy\nx\ne\ny\nx\nxy\nxy\n→\n→\n−\n⇒\n=\n→\n→\n0\n0\n1\nlim\n1\na s lim\n1\nx y\nx\nxy\ne\ny\nx y\n→\n→\n\n\n−\n⇒\n=\n=\n\n\n\n\n0\nlo g\n(1\n)\nlim\n1\ne\nx\nx\nx\n→\n+\n⇒\n=\nExample 5 Compute \n3\n0\n1\nli m\nx\nx\ne\nx\n→\n−\nSolution We have\n3\n3\n0\n3\n0\n0\n1\n1\nlim\nlim\n3\n3\n1\n3 lim\n,\nw here\n3\n3.1\n3\nx\nx\nx\nx\ny\ny\ne\ne\nx\nx\ne\ny\nx\ny\n→\n→\n→\n−\n−\n=\n⋅\n\n\n−\n=\n=\n\n\n\n\n=\n="
+    },
+    {
+      "page": 6,
+      "text": "362       MATHEMATICS\nExample 6 Compute \n0\nsin\n1\nlim\nx\nx\ne\nx\nx\n→\n−\n−\nSolution We have   \n0\n0\nsin\n1\n1\nsin\nlim\nlim\nx\nx\nx\nx\ne\nx\ne\nx\nx\nx\nx\n→\n→\n\n\n−\n−\n−\n=\n−\n\n\n\n\n0\n0\n1\nsin\nlim\nlim\n1 1\n0\nx\nx\nx\ne\nx\nx\nx\n→\n→\n−\n=\n−\n= −=\nExample 7 Evaluate\n1\nlog\nlim\n1\ne\nx\nx\nx\n→\n−\nSolution\nPut x = 1 + h, then as \n1\n0\nx\nh\n→⇒\n→. Therefore,\n1\n0\nlog\nlog (1\n)\nlim\nlim\n1\ne\ne\nx\nh\nx\nh\nx\nh\n→\n→\n+\n=\n−\n0\nlog (1\n)\n1 since lim\n1\ne\nx\nx\nx\n→\n+\n\n\n=\n=\n\n\n\n.\nExercise 13.2\nEvaluate the following limits, if exist\n1.\n4\n0\n1\nlim\nx\nx\ne\nx\n→\n−\n(Ans. 4)\n2.\n2\n2\n0\nlim\nx\nx\ne\ne\nx\n+\n→\n−\n(Ans. e2)\n3.\n5\n5\nlim\n5\nx\nx\ne\ne\nx\n→\n−\n−\n(Ans. e5)\n4.\nsin\n0\n1\nlim\nx\nx\ne\nx\n→\n−\n(Ans. 1)\n5.\n3\n3\nlim\n3\nx\nx\ne\ne\nx\n→\n−\n−\n(Ans. e3)\n6.\n0\n(\n1)\nlim 1\ncos\nx\nx\nx e\nx\n→\n−\n−\n(Ans. 2)\n7.\n0\nlog (1\n2 )\nlim\ne\nx\nx\nx\n→\n+\n(Ans. 2)\n8.\n3\n3\n0\nlog (1\n)\nlim\nsin\nx\nx\nx\n→\n+\n(Ans. 1)"
+    },
+    {
+      "page": 7,
+      "text": "SUPPLEMENTARY MATERIAL       363\nNotes"
+    },
+    {
+      "page": 8,
+      "text": "364       MATHEMATICS"
+    }
+  ]
+}
